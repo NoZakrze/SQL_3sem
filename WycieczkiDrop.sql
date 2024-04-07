@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS Czartery_autokaru, Zwiedzanie_atrakcji, Rezerwacje_hotelu, Rezerwacje_wycieczki, Wycieczki, Uczestnicy, Piloci, Hotele, Atrakcje, Autokary, Firmy_przewozowe; ;
